@@ -16,7 +16,7 @@ O curso da Alura sobre Cypress abrange os seguintes tópicos:
 
 ## Desafios Selecionados
 
-Dos desafios apresentados no curso, dois foram escolhidos para este repositório por sua complexidade e abrangência:
+Dos desafios apresentados no curso, dois foram escolhidos para este repositório devido a abrangência:
 
 ### Desafio da Aula 3: Teste de Informações de Usuário
 
@@ -41,18 +41,6 @@ Este desafio apresenta um teste mais abrangente, cobrindo uma jornada completa d
 - Uso de comandos personalizados do Cypress
 - Proteção de dados sensíveis
 - Simulação de diferentes ações do usuário
-
-## Por que Estes Desafios?
-
-Estes desafios foram escolhidos por demonstrarem aplicações práticas de conceitos avançados, incluindo:
-
-1. Testes de API integrados com testes de interface
-2. Uso de dados dinâmicos e fixtures
-3. Criação de comandos personalizados para melhorar a manutenibilidade dos testes
-4. Simulação de jornadas completas de usuário
-5. Práticas de organização e estruturação de testes
-
-Embora o curso cubra outros tópicos, como testes em diferentes tamanhos de tela e uso de mocks/stubs, estes desafios focam em áreas que considero mais complexas em testes em aplicações web modernas.
 
 ## Contribuições
 
